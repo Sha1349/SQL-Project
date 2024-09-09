@@ -1,5 +1,4 @@
-# SQL
-MySQL Data Analysis Project 
+#MySQL Data Analysis Project 
 
 Welcome to my SQL Data Analytics project! 🚀 This project dives into a Pizza Store dataset from Kaggle, where I explored order patterns, revenue generation, and customer preferences through hands-on SQL queries.
 
